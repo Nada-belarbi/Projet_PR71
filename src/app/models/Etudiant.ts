@@ -5,4 +5,7 @@ export class Etudiant {
     email!: string;
     password!: string;
     filliere!: string;
+    datedenaissance!:string;
+    anneeuniv!:string;
+
   }
